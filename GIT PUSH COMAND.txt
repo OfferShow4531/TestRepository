@@ -1,0 +1,24 @@
+GIT PUSH IN GUTHUB.COM
+1) git init 
+2) git add README.txt
+3) git commit -m "first commit" - Первый коммит
+4) git branch -M master - Создание ветви
+5) git push -u origin master - внесение файлов
+6) git init
+7) git commit -m "second commit"
+8) git commit -m "second commit" 
+9) git branch -M master
+10) git log 
+[commit 8238b7fc932dc23cc6bff5d09d581c17287e05a2 (HEAD -> master, origin/master)
+Author: Timur Em <offershow4531@gmail.com>
+Date:   Tue Sep 29 15:42:44 2020 +0600
+
+    second commit
+
+commit 7075a79c7c65621ed15785a767ee30db160755a2
+Author: Timur Em <offershow4531@gmail.com>
+Date:   Tue Sep 29 15:41:06 2020 +0600
+
+    first commit
+
+]

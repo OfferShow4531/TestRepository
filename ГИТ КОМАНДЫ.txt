@@ -22,3 +22,5 @@ Date:   Tue Sep 29 15:41:06 2020 +0600
     first commit
 
 ]
+11) git tag -a v2.0 -m 'Version 2.0'
+12) git show - Просмотр информации
